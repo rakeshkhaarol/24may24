@@ -1,0 +1,25 @@
+header{
+   
+    height: 60px;
+    width: 100%;
+    background: burlywood;
+}
+footer{
+ 
+    height: 50px;
+    width: 100%;
+    background: darkorchid;
+}
+main{
+
+    height: 800px;
+    width: 100%;
+
+}
+section{
+    background: lemonchiffon;
+}
+aside{
+    
+    background: aquamarine;
+}
